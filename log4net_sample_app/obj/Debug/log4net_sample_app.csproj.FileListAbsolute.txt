@@ -1,0 +1,11 @@
+C:\Users\arnab\source\repos\log4net_sample_app\log4net_sample_app\bin\Debug\log4net.config
+C:\Users\arnab\source\repos\log4net_sample_app\log4net_sample_app\bin\Debug\log4net_sample_app.exe.config
+C:\Users\arnab\source\repos\log4net_sample_app\log4net_sample_app\bin\Debug\log4net_sample_app.exe
+C:\Users\arnab\source\repos\log4net_sample_app\log4net_sample_app\bin\Debug\log4net_sample_app.pdb
+C:\Users\arnab\source\repos\log4net_sample_app\log4net_sample_app\bin\Debug\log4net.dll
+C:\Users\arnab\source\repos\log4net_sample_app\log4net_sample_app\bin\Debug\log4net.xml
+C:\Users\arnab\source\repos\log4net_sample_app\log4net_sample_app\obj\Debug\log4net_sample_app.csprojAssemblyReference.cache
+C:\Users\arnab\source\repos\log4net_sample_app\log4net_sample_app\obj\Debug\log4net_sample_app.csproj.CoreCompileInputs.cache
+C:\Users\arnab\source\repos\log4net_sample_app\log4net_sample_app\obj\Debug\log4net_sample_app.csproj.CopyComplete
+C:\Users\arnab\source\repos\log4net_sample_app\log4net_sample_app\obj\Debug\log4net_sample_app.exe
+C:\Users\arnab\source\repos\log4net_sample_app\log4net_sample_app\obj\Debug\log4net_sample_app.pdb
